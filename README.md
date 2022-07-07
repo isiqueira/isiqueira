@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Italo</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiqueira" alt="isiqueira" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/siqueiraitalo" target="blank"><img src="https://img.shields.io/twitter/follow/siqueiraitalo?logo=twitter&style=for-the-badge" alt="siqueiraitalo" /></a> </p>
-
 - 🔭 I’m currently working on **Grupo Boticario**
 
 - 🌱 I’m currently learning **about kotlin and soft skills**
 
 - 📝 I regularly write articles on [italosiqueira.dev](italosiqueira.dev)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiqueira" alt="isiqueira" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/siqueiraitalo" target="blank"><img src="https://img.shields.io/twitter/follow/siqueiraitalo?logo=twitter&style=for-the-badge" alt="siqueiraitalo" /></a> </p>
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
