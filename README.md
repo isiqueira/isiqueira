@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Italo</h1>
 
-- 🔭 I’m currently working on **Grupo Boticario**
+- 🔭 I’m currently working on **Genesis Consulting**
 - 🌱 I’m currently learning **about kotlin and soft skills**
 - 📝 I regularly write articles on [italosiqueira.dev](italosiqueira.dev)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiqueira" alt="isiqueira" /></a> </p>
